@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Link, Routes, Route, Navigate } from 'react-router-dom'
+import { Link, Routes, Route } from 'react-router-dom'
 import './App.css'
 import useStore, { DefiProtocol } from './store/useStore'
 import { useNavigate } from 'react-router-dom'
